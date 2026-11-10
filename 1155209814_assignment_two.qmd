@@ -1,7 +1,10 @@
 ---
 title: "ECON 3420A Assignment 2: Testing the CAPM, Time-Varying Beta, and Multifactor Models"
 subtitle: "Lecture Note Part 4-5 | 100 marks"
-author: "LANG Ho Tin (1155209814)"
+author:
+  - "LANG Ho Tin (1155209814)"
+  - "Jiayi Nie (1155210146)"
+  - "Chung Yuet Ki Toby (1155202615)"
 date: today
 jupyter: python3
 
