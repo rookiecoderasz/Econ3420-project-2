@@ -31,14 +31,6 @@ execute:
   freeze: false
 ---
 
-**How to use this template:**
-
-- Rename it `studentID_assignment_two.qmd`.
-- Replace every `[WRITE …]` placeholder with your answer.
-- Each code cell marked `# TODO` matches one Task to AI item. Replace the comments with the code your AI writes, and keep the cell label.
-- Run the cells in order: later questions reuse data and code from earlier ones.
-- Fill in (a) and (b) **before** running any regression.
-
 ## (a) My predictions (for Q1–Q3)
 
 | Prediction | My answer and reason | What I later observed |
