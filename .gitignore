@@ -1,0 +1,7 @@
+# Quarto and Jupyter working files
+.quarto/
+*_files/
+*.typ
+*.quarto_ipynb
+.ipynb_checkpoints/
+__pycache__/
